@@ -1,5 +1,7 @@
-const main = require('../main/main');
-
+const printInventory = require('../main/main');
+const load=require('../main/datbase');
+const loadAllItems=load.loadAllItems;
+console.log(load);
 describe('pos', function () {
     var allItems;
     var inputs;
