@@ -1,5 +1,7 @@
 # pos-v1-node题目划分
 
+![](Tasking_img.jpg)
+
 ```
 #1 printInventory
 输入：
